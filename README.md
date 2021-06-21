@@ -1,8 +1,5 @@
 # Color-Detection-GRIP-TSF
 
 Output : 
-
-
-
-https://user-images.githubusercontent.com/74596908/122749621-2eb84180-d2ab-11eb-8c8e-c6ef12e94eba.mp4
+https://user-images.githubusercontent.com/74596908/122749839-6f17bf80-d2ab-11eb-95da-3678be28e2e3.mp4
 
